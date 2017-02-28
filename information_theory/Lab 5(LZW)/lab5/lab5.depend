@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417967677 source:d:\agu\Теория информации\Лабы\lab 5(lzw)\lab5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<vector>
+

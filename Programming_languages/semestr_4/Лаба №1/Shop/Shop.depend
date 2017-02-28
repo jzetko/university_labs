@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1393182777 source:d:\agu\языки программировани€(c++)\3 семестр\Ћаба є1\shop\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cmath>
+	"Shop.h"
+	<string>
+
+1393187516 d:\agu\языки программировани€(c++)\3 семестр\Ћаба є1\shop\shop.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cmath>
+	<string>
+
+1393187897 source:d:\agu\языки программировани€(c++)\3 семестр\Ћаба є1\shop\shop.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cmath>
+	"Shop.h"
+	<string>
+
+1393182777 source:d:\agu\языки программировани€(c++)\4 семестр\Ћаба є1\shop\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cmath>
+	"Shop.h"
+	<string>
+
+1393187516 d:\agu\языки программировани€(c++)\4 семестр\Ћаба є1\shop\shop.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cmath>
+	<string>
+
+1393187897 source:d:\agu\языки программировани€(c++)\4 семестр\Ћаба є1\shop\shop.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cmath>
+	"Shop.h"
+	<string>
+

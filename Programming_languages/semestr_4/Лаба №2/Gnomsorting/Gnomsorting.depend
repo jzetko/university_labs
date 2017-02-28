@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1393944702 source:d:\agu\языки программировани€(c++)\3 семестр\Ћаба є2\gnomsorting\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<ctime>
+

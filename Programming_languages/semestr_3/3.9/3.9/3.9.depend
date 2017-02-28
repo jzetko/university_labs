@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1390562764 source:d:\agu\языки программировани€(c++)\meny\2 семестр\3.9\3.9\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"math.h"
+
+1390562764 source:d:\agu\языки программировани€(c++)\3 семестр\3.9\3.9\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"math.h"
+

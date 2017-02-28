@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1413287809 source:d:\agu\Криптография\labs\lab 3.1\idea\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<algorithm>
+
+1413476640 source:f:\lab 3.1\idea\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cmath>
+
+1413627867 source:j:\lab 3.1\idea\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<cmath>
+

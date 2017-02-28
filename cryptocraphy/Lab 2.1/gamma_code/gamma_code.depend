@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1412449747 source:d:\agu\Криптография\labs\lab5\gamma_code\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<string>
+

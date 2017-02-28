@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447435526 source:m:\Карине\lab3\4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+

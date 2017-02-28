@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1401632526 source:c:\users\Влад\desktop\dp\dp\dp\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<ctime>
+

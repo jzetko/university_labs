@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414510767 source:d:\agu\Криптография\labs\lab 5.2\md5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+

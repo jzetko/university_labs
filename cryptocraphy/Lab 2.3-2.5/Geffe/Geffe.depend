@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1412788269 source:d:\agu\Криптография\labs\lab7\geffe\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<string>
+

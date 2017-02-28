@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1447358042 source:h:\Карине\lab3\1\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+
+1447361299 source:m:\Карине\lab3\1\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+

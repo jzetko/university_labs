@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1411921881 source:d:\agu\Криптография\labs\lab3\lab3\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+	<cmath>
+
+1411928222 source:d:\agu\Криптография\labs\lab 1.1\lab3\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+	<cmath>
+

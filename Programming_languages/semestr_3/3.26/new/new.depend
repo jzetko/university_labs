@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1387864618 source:d:\agu\языки программировани€(c++)\meny\2 семестр\3.26\new\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cmath>
+	"Decimal.h"
+
+1387865359 d:\agu\языки программировани€(c++)\meny\2 семестр\3.26\new\decimal.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cmath>
+	"Decimal.h"
+
+1387861871 source:d:\agu\языки программировани€(c++)\meny\2 семестр\3.26\new\decimal.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cmath>
+	"Decimal.h"
+
+1387864618 source:d:\agu\языки программировани€(c++)\3 семестр\3.26\new\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cmath>
+	"Decimal.h"
+
+1387865359 d:\agu\языки программировани€(c++)\3 семестр\3.26\new\decimal.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<cmath>
+	"Decimal.h"
+

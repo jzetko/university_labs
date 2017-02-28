@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1387722934 source:d:\agu\языки программировани€(c++)\meny\2 семестр\2.22(є6)\try-catch\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<list>
+	<stdexcept>
+	<cmath>
+

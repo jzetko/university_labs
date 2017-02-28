@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1401635980 source:c:\users\Влад\desktop\dp\recursion\rec\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<fstream>
+

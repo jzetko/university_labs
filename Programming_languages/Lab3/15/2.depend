@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447440467 source:m:\Карине\lab3\15\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+

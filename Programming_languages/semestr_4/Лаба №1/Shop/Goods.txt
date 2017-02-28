@@ -1,0 +1,7 @@
+Avtooil 2000 2550 None 5
+Avtoshampoo 220 380 Orangeflavor 8
+Antifreeze 1500 1950 Winterly 7
+Wheels 14800 15950 Studded 3
+Washer 140 180 Allyear 20
+Sponge 30 50 None 45
+Crem 123 252 none 45

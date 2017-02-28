@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414601149 source:d:\agu\Теория информации\Лабы\lab 6(hemming)\hemming\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+

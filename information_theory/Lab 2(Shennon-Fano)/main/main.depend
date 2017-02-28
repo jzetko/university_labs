@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1410886412 source:d:\agu\Теория информации\Лабы\Лаб2\main\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+
+1412272708 source:d:\agu\Теория информации\Лабы\Лаб 2\main\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<algorithm>
+	<cmath>
+

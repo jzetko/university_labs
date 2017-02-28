@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414180094 source:d:\agu\Криптография\labs\lab 5.1\sha-1\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cmath>
+

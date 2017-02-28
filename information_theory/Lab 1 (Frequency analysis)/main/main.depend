@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410709735 source:d:\agu\Теория информации\Лабы\Лаб1\main\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+

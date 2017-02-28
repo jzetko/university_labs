@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1411932818 source:d:\agu\Криптография\labs\lab4\lab4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+

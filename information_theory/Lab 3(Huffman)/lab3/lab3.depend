@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1414157609 source:d:\agu\Теория информации\Лабы\lab 3(huffman)\lab3\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<cmath>
+

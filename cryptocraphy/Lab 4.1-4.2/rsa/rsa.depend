@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413659437 source:d:\agu\Криптография\labs\lab 4.1\rsa\main.cpp
+	<iostream>
+	<cstdlib>
+

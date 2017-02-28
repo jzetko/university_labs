@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1417891152 source:d:\agu\Теория информации\Лабы\lab 4(arithmetic coding)\Адаптивный\4 lab\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+	<algorithm>
+	<cmath>
+

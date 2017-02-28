@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1412698621 source:d:\agu\Криптография\labs\lab6\primitive polynomial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+
